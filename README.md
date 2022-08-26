@@ -1,4 +1,4 @@
-<h2 align="centre">🎶 Mizu Music Bot 🎶</h2>
+<h2 align="centre">🎶 Bhanumathi Music Bot 🎶</h2>
 
 ### Music bot for playing music on telegram voice chat group.
 
