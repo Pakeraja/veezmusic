@@ -12,22 +12,23 @@
         },
         "BOT_TOKEN": {
             "description": "token bot anda dari @BotFather",
+            "value": "5482978327:AAGM52AhT6c6bbF-RbFzPdBb2xupFwav3Yc"  
             "required": true
         },
         "BOT_NAME": {
             "description": "nama bot musik anda.",
             "required": false,
-            "value": ""
+            "value": "grootmusicbot"
         },
         "BOT_USERNAME": {
             "description": "isi dengan username bot musik kamu tanpa @",
             "required": true,
-            "value": "veezmusicbot"
+            "value": "Grootmusicbot"
         },
         "ASSISTANT_NAME": {
             "description": "isi dengan username assistant bot musik kamu tanpa @",
             "required": true,
-            "value": "veezasisstant"
+            "value": "kingHulk3434"
         },
         "BG_IMAGE": {
             "description": "isi dengan link background image kalian",
@@ -37,24 +38,27 @@
         "OWNER_NAME": {
             "description": "isi dengan username kamu tanpa simbol @",
             "required": false,
-            "value": "dlwrml"
+            "value": "HackerThanos"
         },
         "API_ID": {
             "description": "isi dengan App ID dari my.telegram.org/apps",
+            "value": "8849698"
             "required": true
         },
         "API_HASH": {
             "description": "isi dengan Api hash dari my.telegram.org/apps",
+            "value": "0bfbdd4b2f0731285417330f5d1dd095"
             "required": true
         },
         "SUDO_USERS": {
             "description": "list id untuk daftar anggota sudo (pisahkan dengan spasi).",
+            "value": "5749901888"
             "required": true
         },
         "DURATION_LIMIT": {
             "description": "max durasi untuk video yang diunduh (dalam menit).",
             "required": true,
-            "value": "15"
+            "value": "30"
         },
         "PMPERMIT": {
             "description": "pm-permit untuk assistant.",
@@ -64,12 +68,12 @@
         "UPDATES_CHANNEL": {
             "description": "isi dengan username channel kamu, jika tidak punya lewati saja",
             "required": false,
-            "value": "levinachannel"
+            "value": "Groot_Network"
         },
         "GROUP_SUPPORT": {
             "description": "isi dengan username grup kamu, jika tidak punya skip saja",
             "required": false,
-            "value": "gcsupportbots"
+            "value": "Groot_Feelings"
         }
     },
     "buildpacks": [
